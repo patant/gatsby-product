@@ -1,0 +1,8 @@
+{
+  "name": "gatsby-product",
+  "version": "0.0.1",
+  "main": "index.js",
+  "repository": "git@github.com:patant/gatsbby-product.git",
+  "author": "Patrik Antonsson <patant@gmail.com>",
+  "license": "MIT"
+}
